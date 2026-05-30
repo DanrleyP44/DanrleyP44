@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Danrley
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na Unifor  
-💻 Futuro desenvolvedor Backend, com interesse em Full Stack  
+💻 Futuro desenvolvedor Backend
 📚 Apaixonado por tecnologia, programação, literatura e filosofia  
 🚀 Sempre aprendendo e construindo projetos para evoluir minhas habilidades
 
