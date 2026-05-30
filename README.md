@@ -1,55 +1,59 @@
-# 👋 Hello, I'm Danrley
+# 👋 Olá, eu sou Danrley
 
-🎓 Systems Analysis and Development student at Unifor  
-💻 Aspiring Backend Developer with an interest in Full Stack Development  
-📚 Passionate about technology, programming, literature, and philosophy  
-🚀 Constantly learning and building projects to improve my skills
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na Unifor  
+💻 Futuro desenvolvedor Backend, com interesse em Full Stack  
+📚 Apaixonado por tecnologia, programação, literatura e filosofia  
+🚀 Sempre aprendendo e construindo projetos para evoluir minhas habilidades
 
 ---
 
-## 🚀 Technologies and Tools
+## 🚀 Tecnologias e Ferramentas
 
-### Currently Studying
+### Atualmente estudando
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### Next Steps
+### Próximos passos
+
 - Java
-- Object-Oriented Programming
-- SQL Databases
+- Programação Orientada a Objetos
+- Banco de Dados SQL
 - Spring Boot
-- REST APIs
+- APIs REST
 
 ---
 
-## 📚 Learning Journey
+## 📚 Minha Jornada
 
-My programming journey started with:
+Minha trajetória na programação começou com os estudos de:
 
-- Programming Logic and Algorithms
-- HTML5 and CSS3
+- Lógica de Programação e Algoritmos
+- HTML5 e CSS3
 - JavaScript
-- Git and GitHub
+- Git e GitHub
 
-Most of my foundation was built through the courses from Gustavo Guanabara's Curso em Vídeo.
+Grande parte da minha base foi construída por meio dos cursos do Curso em Vídeo, do professor Gustavo Guanabara.
 
-Currently, I am focusing on deepening my backend development skills and preparing for internship opportunities.
+Atualmente, estou focado em aprofundar meus conhecimentos em desenvolvimento backend, construir projetos práticos e me preparar para oportunidades de estágio na área de tecnologia.
 
 ---
 
-## 📂 Featured Projects
+## 📂 Projetos em Destaque
 
 ### 🌞 Hora do Dia
-A simple project built with HTML, CSS, and JavaScript that changes the interface according to the current time.
 
-🔗 Project: https://danrleyp44.github.io/hora-do-dia/codigo/
+Projeto desenvolvido com HTML, CSS e JavaScript que altera dinamicamente a interface de acordo com o horário do dia.
+
+🔗 Acesse o projeto:  
+https://danrleyp44.github.io/hora-do-dia/codigo/
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Estatísticas do GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
 
@@ -57,20 +61,21 @@ A simple project built with HTML, CSS, and JavaScript that changes the interface
 
 ---
 
-## 🎯 Current Goals
+## 🎯 Objetivos Atuais
 
-- Complete my Java learning path
-- Build backend projects with Spring Boot
-- Improve problem-solving skills
-- Earn my first internship opportunity
-- Contribute to open-source projects
-
----
-
-## 📫 Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/danrley-pereirab)
+- Consolidar minha base em Java
+- Aprender Spring Boot e desenvolvimento de APIs
+- Aprimorar minhas habilidades de resolução de problemas
+- Construir um portfólio sólido de projetos
+- Conquistar minha primeira oportunidade de estágio
+- Contribuir para projetos open source
 
 ---
 
-> "Continuous improvement is better than delayed perfection."
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/danrley-pereirab)
+
+---
+
+> "A consistência diária supera a motivação ocasional."
