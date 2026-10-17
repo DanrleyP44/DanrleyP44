@@ -1,81 +1,59 @@
-# 👋 Olá, eu sou Danrley
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na Unifor  
-💻 Futuro desenvolvedor Backend
-📚 Apaixonado por tecnologia, programação, literatura e filosofia  
-🚀 Sempre aprendendo e construindo projetos para evoluir minhas habilidades
+# Hi, I'm Danrley 👋
 
----
+I'm a Systems Analysis and Development (ADS) student at UniCesumar in Brazil, focused on building a solid foundation in **Python and backend development**. I learn by studying programming fundamentals and applying them to practical projects.
 
-## 🚀 Tecnologias e Ferramentas
+I'm currently working toward my **first internship in software development, preferably backend with Python**.
 
-### Atualmente estudando
+## Tech stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+**Main focus**
+- Python
+- Object-oriented programming (OOP)
+- Backend development with Flask
 
-### Próximos passos
+**Used in projects**
+- Python, Flask, Pygame
+- HTML5 and CSS3
+- Git and GitHub
+- `uv` for Python project and dependency management
 
-- Java
-- Programação Orientada a Objetos
-- Banco de Dados SQL
-- Spring Boot
-- APIs REST
+**Foundational knowledge**
+- Programming logic and algorithms
+- C (academic work)
+- JavaScript, HTML and CSS
 
----
+## Featured projects
 
-## 📚 Minha Jornada
+### [Personal Portfolio — Flask](https://github.com/DanrleyP44/my_python_portfolio)
+A small web application built with Flask to present my Python projects. It uses Flask routes and HTML templates, with CSS for the interface, and links visitors to the source repositories.
 
-Minha trajetória na programação começou com os estudos de:
+- **Live demo:** [my-python-portfolio-vp07.onrender.com](https://my-python-portfolio-vp07.onrender.com/)
+- **Tech:** Python, Flask, HTML, CSS
 
-- Lógica de Programação e Algoritmos
-- HTML5 e CSS3
-- JavaScript
-- Git e GitHub
+### [Asteroids](https://github.com/DanrleyP44/Asteroids)
+An arcade-style game built with Python and Pygame as a practical programming exercise. The project covers object-oriented game entities, player movement and rotation, projectiles, asteroid spawning and splitting, collision detection, score tracking, and a lives system.
 
-Grande parte da minha base foi construída por meio dos cursos do Curso em Vídeo, do professor Gustavo Guanabara.
+- **Tech:** Python, Pygame, OOP
 
-Atualmente, estou focado em aprofundar meus conhecimentos em desenvolvimento backend, construir projetos práticos e me preparar para oportunidades de estágio na área de tecnologia.
+### [Book Bot](https://github.com/DanrleyP44/book_bot)
+A command-line program that reads a text file and prints a report with word counts and character frequencies. It practices file handling, functions, dictionaries, string processing, sorting, and command-line arguments using Python's standard library.
 
----
+- **Tech:** Python, standard library
 
-## 📂 Projetos em Destaque
+## What I'm learning
 
-### 🌞 Hora do Dia
+- Strengthening my Python fundamentals and object-oriented programming.
+- Practicing algorithms and problem-solving through small, practical exercises.
+- Improving the structure, readability, and documentation of my projects.
+- Building toward backend topics such as SQL and REST APIs as my fundamentals progress.
 
-Projeto desenvolvido com HTML, CSS e JavaScript que altera dinamicamente a interface de acordo com o horário do dia.
+## Languages
 
-🔗 Acesse o projeto:  
-https://danrleyp44.github.io/hora-do-dia/codigo/
+- **Portuguese:** Native
+- **English:** B2 (intermediate-advanced)
 
----
+## Contact
 
-## 📈 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
-
----
-
-## 🎯 Objetivos Atuais
-
-- Consolidar minha base em Java
-- Aprender Spring Boot e desenvolvimento de APIs
-- Aprimorar minhas habilidades de resolução de problemas
-- Construir um portfólio sólido de projetos
-- Conquistar minha primeira oportunidade de estágio
-- Contribuir para projetos open source
-
----
-
-## 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/danrley-pereirab)
-
----
-
-> "A consistência diária supera a motivação ocasional."
+- [LinkedIn](https://www.linkedin.com/in/danrley-pereirab/)
+- [GitHub](https://github.com/DanrleyP44)
